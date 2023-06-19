@@ -7,7 +7,7 @@
 
 ## Introduction
 
-The volunteers management system was made as part of a class project to learn and experience using Java, SWING GUI Frames, Hibernate and Remote Method Invocation(RMI). The project is a platform for an Organization to create opportunities for people to volunteer in and track these opportunities. Someone interested in an opportunity can also apply for the opportunity.
+The volunteers management system was made as part of a class project to learn and experience using Java, SWING GUI Frames, Hibernate and Remote Method Invocation(RMI). The project is a platform for an Organization to create opportunities for people to volunteer in and track these opportunities. Someone interested in an opportunity can also apply for an opportunity.
 
 ## Technologies
 * Java jdk 8
